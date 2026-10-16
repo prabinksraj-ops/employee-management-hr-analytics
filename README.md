@@ -71,7 +71,7 @@ The Power BI dashboard presents key workforce metrics and visualizations.
 
 ## HR Analytics Dashboard
 
-[**View Full-Size HR Analytics Dashboard**](dashboard/HR_Analytics_Dashboard.png)
+![HR Analytics Dashboard](dashboard/HR_Analytics_Dashboard.png)
 
 ## System Architecture
 
