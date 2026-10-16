@@ -149,14 +149,16 @@ DB_PASSWORD=your_mysql_password
 
 Replace the example values with your local configuration. Never commit the `.env` file or real credentials to GitHub.
 
+
 ### 4. Set Up the Database
 
-1. Start MySQL Server.
-2. Create the `employee_management` database.
-3. Create the required `employees` table and configure the employee data.
-4. Ensure the database credentials in `.env` match your MySQL configuration.
+1. Start MySQL Server using MySQL Workbench.
+2. Open the `database/employee_management.sql` file in MySQL Workbench.
+3. Execute the SQL script to create the `employee_management` database and its tables.
+4. Confirm that the `employees` and `employee_login` tables are created successfully.
+5. Configure your local `.env` file with the correct MySQL credentials.
 
-If a SQL setup script is included in the repository, execute it using MySQL Workbench.
+**Note:** The SQL script creates the database tables. It does not include real employee records or login credentials.
 
 ### 5. Run the Application
 
