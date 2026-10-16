@@ -67,6 +67,10 @@ The Power BI dashboard presents key workforce metrics and visualizations.
 - Top 10 highest-paid employees
 - Employee details table
 
+### Dashboard Preview
+
+![HR Analytics Dashboard](dashboard/HR_Analytics_Dashboard.png)
+
 ## System Architecture
 
 1. **Presentation Layer:** Tkinter desktop interface
