@@ -111,8 +111,6 @@ employee-management-hr-analytics/
     └── HR_Analytics_Dashboard.png
 ```
 
-*The database and dashboard folders/files should be added to the repository if they exist in your project. Adjust the names to match your actual files.*
-
 ## Installation and Setup
 
 ### Prerequisites
